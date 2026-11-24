@@ -1,0 +1,6 @@
+﻿TimeGenerated,EventID,Activity,Account,TargetAccount
+"Oct 31, 2026 2:54:09 PM",4733,4733 - A member was removed from a security-enabled local group.,HR-HDH-SRV-01\robinhood,Builtin\Users
+"Oct 31, 2026 2:54:09 PM",4733,4733 - A member was removed from a security-enabled local group.,HR-HDH-SRV-01\robinhood,Builtin\Administrators
+"Oct 31, 2026 2:54:09 PM",4726,4726 - A user account was deleted.,HR-HDH-SRV-01\robinhood,HR-HDH-SRV-01\svc-backup
+"Oct 31, 2026 2:58:12 PM",4733,4733 - A member was removed from a security-enabled local group.,HR-HDH-SRV-01\robinhood,Builtin\Administrators
+"Oct 31, 2026 2:58:30 PM",4726,4726 - A user account was deleted.,HR-HDH-SRV-01\robinhood,HR-HDH-SRV-01\evil-twin

@@ -1,0 +1,16 @@
+﻿IpAddress,Country,State,City,Attempts,TargetAccounts,FirstSeen,LastSeen,Latitude,Longitude
+80.94.95.83,Romania,,,905,"[""-\\Test"",""-\\ADMIN"",""-\\ADMINISTRATOR"",""-\\USER"",""-\\BACKUP"",""-\\ADMINISTRADOR"",""-\\SYSTEM""]","Oct 31, 2026 10:38:24 PM","Oct 31, 2026 11:10:20 PM",45.9968,24.997
+170.253.61.253,Spain,Valencia,Valencia,462,"[""MicrosoftAccount\\Administrator"",""MicrosoftAccount\\Admin"",""MicrosoftAccount\\Guest""]","Oct 31, 2026 2:36:29 PM","Oct 31, 2026 2:40:45 PM",39.4676,-0.3771
+43.163.94.111,Singapore,,Singapore,336,"[""-\\ADMINISTRATOR""]","Nov 1, 2026 4:53:56 PM","Nov 1, 2026 6:10:56 PM",1.2872,103.8507
+144.202.27.1,United States,Georgia,Atlanta,235,"[""-\\Admin"",""-\\Administrator""]","Nov 1, 2026 11:17:05 AM","Nov 1, 2026 6:37:42 PM",33.7838,-84.4455
+171.237.176.145,Vietnam,,,168,"[""-\\ADMINISTRATOR""]","Nov 1, 2026 4:57:12 PM","Nov 1, 2026 5:21:18 PM",16.1667,107.8333
+217.218.10.46,Iran,Tehran,Tehran,117,"[""-\\Administrator""]","Oct 31, 2026 2:36:06 PM","Oct 31, 2026 11:09:39 PM",35.6824,51.4158
+172.213.17.10,Italy,Lombardy,Milan,110,"[""-\\AZUREUSER"",""-\\STUDENT""]","Nov 1, 2026 2:39:48 PM","Nov 1, 2026 6:38:21 PM",45.4722,9.1922
+79.135.105.1,Afghanistan,Kabul,Kabul,15,"[""-\\azureuser"",""-\\Admin"",""-\\Administrator"",""-\\FranklinDR"",""-\\Elon""]","Oct 31, 2026 1:20:00 PM","Oct 31, 2026 1:30:34 PM",34.5329,69.1682
+119.148.49.82,Bangladesh,Rajshahi Division,Sirajganj,12,"[""-\\HDH""]","Oct 31, 2026 4:14:45 PM","Oct 31, 2026 10:49:23 PM",24.4556,89.7109
+61.8.142.157,Germany,North Rhine-Westphalia,Essen,8,"["".\\azureuser"","".\\robinhood""]","Oct 31, 2026 12:18:48 PM","Oct 31, 2026 3:05:24 PM",51.4787,7.0697
+92.209.212.167,Germany,Baden-Wurttemberg,Stuttgart,6,"[""CYBERSETUP\\test""]","Nov 1, 2026 11:18:57 AM","Nov 1, 2026 1:53:43 PM",48.767,9.1827
+92.209.201.128,Germany,North Rhine-Westphalia,Dortmund,3,"[""MicrosoftAccount\\eszter.iszlai@outlook.de""]","Oct 31, 2026 2:08:21 PM","Oct 31, 2026 2:08:39 PM",51.5018,7.3423
+140.82.50.10,United States,California,Santa Clara,1,"[""-\\Admin""]","Oct 31, 2026 8:30:13 PM","Oct 31, 2026 8:30:13 PM",37.3931,-121.962
+14.225.81.83,Vietnam,Hanoi,Hanoi,1,"[""-\\ADMINISTRATOR""]","Nov 1, 2026 5:37:03 PM","Nov 1, 2026 5:37:03 PM",21.0184,105.8461
+102.70.86.105,Malawi,Southern Region,Blantyre,1,"[""-\\ADMINISTRATOR""]","Nov 1, 2026 12:07:00 PM","Nov 1, 2026 12:07:00 PM",-15.7902,35.0023

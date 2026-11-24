@@ -1,0 +1,4 @@
+﻿TimeGenerated,Account,NewProcessName,CommandLine
+"Nov 1, 2026 6:32:09 PM",HR-HDH-SRV-01\robinhood,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" -NoProfile -Command ""Invoke-WebRequest -Uri 'https://www.example.com' -OutFile 'C:\Users\Public\download_test1.html'"""
+"Nov 1, 2026 6:32:09 PM",HR-HDH-SRV-01\robinhood,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,"""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" -NoProfile -Command ""(New-Object System.Net.WebClient).DownloadFile('https://www.example.com','C:\Users\Public\download_test2.html')"""
+"Nov 1, 2026 6:32:11 PM",HR-HDH-SRV-01\robinhood,C:\Windows\System32\curl.exe,"""C:\Windows\system32\curl.exe"" -o C:\Users\Public\download_test3.html https://www.example.com"
